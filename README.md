@@ -1,4 +1,4 @@
-# <img src="./icon.png" alt="Buldr-Bangladesh" width="50" height="50" style="vertical-align: middle;"> Buldr-Bangladesh
+# <img src="./icon.png" alt="Buldr-Bangladesh" width="70" height="70" style="vertical-align: top;"> Buldr-Bangladesh
 
 Buldr-Bangladesh is a full-stack project designed as a multi-purpose platform tailored to engineers for showcasing their skills. The platform integrates various tools for learning, showcasing, monetizing, and job opportunities.
 
