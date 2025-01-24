@@ -42,4 +42,5 @@ Buldr-Bangladesh is a full-stack project designed as a multi-purpose platform ta
 - **Auto-generated Portfolios**: Generates portfolios based on user projects.
 - **Integrated Public Notes**: Displays notes as blogs in user portfolios.
 
-To get started with the project, follow the instructions in the [Buldr-Frontend](https://github.com/BuldrBangladesh/Buldr-Frontend.git), [Buldr-Backend](https://github.com/BuldrBangladesh/Buldr-Backend.git) and [Buldr-Marketplace-Frontend](https://github.com/BuldrBangladesh/Buldr-Marketplace-Frontend.git) directories.
+To get started with the project, follow the instructions in the [Buldr-Frontend](https://github.com/BuldrBangladesh/Buldr-Frontend.git), [Buldr-Backend](https://github.com/BuldrBangladesh/Buldr-Backend.git), [Buldr-Marketplace-Frontend](https://github.com/BuldrBangladesh/Buldr-Marketplace-Frontend.git) and [Buldr-AI-Backend](https://github.com/BuldrBangladesh/Buldr-AI-Backend.git) directories.
+
